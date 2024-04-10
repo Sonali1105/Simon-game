@@ -21,5 +21,7 @@ To get a local copy up and running, follow these simple steps.
 
 ## Built With
 HTML - For the structure of the game.
+
 CSS - For styling the game interface.
+
 JavaScript (jQuery) - For the game's interactivity and logic.
